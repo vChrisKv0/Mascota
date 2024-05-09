@@ -1,0 +1,22 @@
+.body{
+    background-color: palegoldenrod;
+}
+
+.txt1{
+    text-align: center;
+}
+
+.img1{
+    width: 900px;
+    height: 500px;
+}
+
+.img2{
+    width: 500px;
+    height: 500px;
+}
+
+.txt2{
+    display: flex;
+    align-items: center;
+}
